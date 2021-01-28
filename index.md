@@ -6,6 +6,10 @@ Satzes. Stattdessen:  wildes Gemetzel ohne Sinn und Verstand.
 
 ### Deutsch 
 
+#### Das Kopfabschneider-Komma zwischen Subjekt und Prädikat 
+
+- [Was mich an Friedrich Merz fasziniert, ist diese radikale Freiheit von jeglicher Selbstachtung.](https://twitter.com/Linuzifer/status/1348991367285006336?s=20)
+
 #### Komma nach vorangestelltem erweitertem Infinitiv 
 
 Insbesondere, wenn der erweiterte Infinitiv Subjekt ist. 
@@ -23,4 +27,15 @@ Insbesondere, wenn der erweiterte Infinitiv Subjekt ist.
 
 - [Ich habe gerade erfahren, das (sic) die Arbeitsagentur mit dem Verweis auf den Förderverein der Schule, die Kostenübernahme eines Tablets verweigert hat.](https://twitter.com/howie_mw/status/1354129064659980288?s=21)
   
+  
+#### Und sonst... 
+
+- [Da ich nichts mehr zu verlieren habe, nutze ich meine Freiheit, um den Stimmlosen meine Stimme zu geben.](https://twitter.com/Volksverpetzer/status/1349045568518189061?s=20)
+  
+### English 
+
+#### Unsorted 
+
+- [To,
+  Democracy!](https://twitter.com/natsechobbyist/status/1352065208613822464?s=20)
   
