@@ -16,6 +16,8 @@ Insbesondere, wenn der erweiterte Infinitiv Subjekt ist.
   - Einfach mal vereinfachen zu: "Das ist eine vernünftige
     Entscheidung" - niemand schreibt "Das, ist ..." ??? 
 - [Herr Brandner, sich über Werte wie Vielfalt und Toleranz lustig zu machen, ist für einen gewählten Volksvertreter arm.](https://twitter.com/s04/status/1354028384884563968)  
+- [Um dieses Geschäft dem US-Bannstrahl zu entziehen, hat Huawei die Tochter Honor zuletzt in die Unabhängigkeit verkauft](https://www.heise.de/news/Huawei-dementiert-Verkaufsabsichten-fuer-Smartphone-Oberklasse-5035365.html)  
+  
   
 #### Apposition 
 
