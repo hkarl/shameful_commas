@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Eine Sammlung unwürdiger Kommas / a collection of shameful commas 
 
-You can use the [editor on GitHub](https://github.com/hkarl/shameful_commas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ich weiß, es ist kleinlich. Aber ich ertrage diese absurden Kommas
+nicht mehr - Kommas bilden Struktur, tragen die Logik eines
+Satzes. Stattdessen:  wildes Gemetzel ohne Sinn und Verstand. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Deutsch 
 
-### Markdown
+#### Komma nach vorangestelltem erweitertem Infinitiv 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Insbesondere, wenn der erweiterte Infinitiv Subjekt ist. 
 
-```markdown
-Syntax highlighted code block
+- [Königsberger Klopse zu servieren, ist in jedem Fall eine
+  vernünftige
+  Entscheidung](https://www.faz.net/aktuell/stil/essen-trinken/rezepte/rezept-fuer-koenigsberger-klopse-17142238.html)
+- [Herr Brandner, sich über Werte wie Vielfalt und Toleranz lustig zu machen, ist für einen gewählten Volksvertreter arm.](https://twitter.com/s04/status/1354028384884563968)  
+  
+#### Apposition 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hkarl/shameful_commas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Ich habe gerade erfahren, das (sic) die Arbeitsagentur mit dem Verweis auf den Förderverein der Schule, die Kostenübernahme eines Tablets verweigert hat.](https://twitter.com/howie_mw/status/1354129064659980288?s=21)
+  
+  
