@@ -13,6 +13,8 @@ Insbesondere, wenn der erweiterte Infinitiv Subjekt ist.
 - [Königsberger Klopse zu servieren, ist in jedem Fall eine
   vernünftige
   Entscheidung](https://www.faz.net/aktuell/stil/essen-trinken/rezepte/rezept-fuer-koenigsberger-klopse-17142238.html)
+  - Einfach mal vereinfachen zu: "Das ist eine vernünftige
+    Entscheidung" - niemand schreibt "Das, ist ..." ??? 
 - [Herr Brandner, sich über Werte wie Vielfalt und Toleranz lustig zu machen, ist für einen gewählten Volksvertreter arm.](https://twitter.com/s04/status/1354028384884563968)  
   
 #### Apposition 
