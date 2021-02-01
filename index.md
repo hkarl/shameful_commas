@@ -30,6 +30,8 @@ Insbesondere, wenn der erweiterte Infinitiv Subjekt ist.
   
 #### Und sonst... 
 
+- [Einst gefeiert für ihren Kampf gegen die Unterdrückung, hat sich Myanmars Regierungschefin Aung San Suu Kyi mit der Armee gemein gemacht.](https://www.tagesschau.de/kommentar/kommentar-myanmar-101.html)
+
 - [Da ich nichts mehr zu verlieren habe, nutze ich meine Freiheit, um den Stimmlosen meine Stimme zu geben.](https://twitter.com/Volksverpetzer/status/1349045568518189061?s=20)
   
 ### English 
