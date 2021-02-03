@@ -30,6 +30,8 @@ Insbesondere, wenn der erweiterte Infinitiv Subjekt ist.
   
 #### Und sonst... 
 
+-[Microsoft hat mit Azure Quantum, das "weltweit erste full stack public cloud Ökosystem für Quantencomputing" als Public Preview freigegeben.](https://www.heise.de/news/Quanten-Computing-von-Microsoft-Azure-Quantum-vorgestellt-5043702.html)
+
 - [Einst gefeiert für ihren Kampf gegen die Unterdrückung, hat sich Myanmars Regierungschefin Aung San Suu Kyi mit der Armee gemein gemacht.](https://www.tagesschau.de/kommentar/kommentar-myanmar-101.html)
 
 - [Da ich nichts mehr zu verlieren habe, nutze ich meine Freiheit, um den Stimmlosen meine Stimme zu geben.](https://twitter.com/Volksverpetzer/status/1349045568518189061?s=20)
