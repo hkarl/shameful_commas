@@ -30,7 +30,7 @@ Insbesondere, wenn der erweiterte Infinitiv Subjekt ist.
   
 #### Und sonst... 
 
--[Microsoft hat mit Azure Quantum, das "weltweit erste full stack public cloud Ökosystem für Quantencomputing" als Public Preview freigegeben.](https://www.heise.de/news/Quanten-Computing-von-Microsoft-Azure-Quantum-vorgestellt-5043702.html)
+- [Microsoft hat mit Azure Quantum, das "weltweit erste full stack public cloud Ökosystem für Quantencomputing" als Public Preview freigegeben.](https://www.heise.de/news/Quanten-Computing-von-Microsoft-Azure-Quantum-vorgestellt-5043702.html)
 
 - [Einst gefeiert für ihren Kampf gegen die Unterdrückung, hat sich Myanmars Regierungschefin Aung San Suu Kyi mit der Armee gemein gemacht.](https://www.tagesschau.de/kommentar/kommentar-myanmar-101.html)
 
