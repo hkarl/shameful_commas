@@ -10,6 +10,11 @@ Satzes. Stattdessen:  wildes Gemetzel ohne Sinn und Verstand.
 
 - [Was mich an Friedrich Merz fasziniert, ist diese radikale Freiheit von jeglicher Selbstachtung.](https://twitter.com/Linuzifer/status/1348991367285006336?s=20)
 
+- [Zu vieles Intonieren oder durch falsches platzieren  der
+  Nadelstiche, kann man ein Klavier oder Flügel „tot
+  Intonieren“,...](https://www.ratgeber-klavier-hamann.de/was-ist-eine-intonation-bei-einem-klavier-oder-fluegel/) 
+  
+
 #### Komma nach vorangestelltem erweitertem Infinitiv 
 
 Insbesondere, wenn der erweiterte Infinitiv Subjekt ist. 
@@ -29,6 +34,15 @@ Insbesondere, wenn der erweiterte Infinitiv Subjekt ist.
   
   
 #### Und sonst... 
+
+- [Im Konzertsaal, wird vor jedem Konzert die Stimmung, aber auch die
+  Intonation
+  geprüft. ](https://www.ratgeber-klavier-hamann.de/was-ist-eine-intonation-bei-einem-klavier-oder-fluegel/) 
+  
+
+- [In der Debatte um eine möglicherweise zu geringe Wirksamkeit gegen
+  Mutationen, versucht Bundesgesundheitsminister Spahn Zweifel an den
+  Corona-Impfstoffen auszuräumen.](https://www.tagesschau.de/inland/innenpolitik/coronavirus-spahn-113.html) - Tagesschau!! 
 
 - [Microsoft hat mit Azure Quantum, das "weltweit erste full stack public cloud Ökosystem für Quantencomputing" als Public Preview freigegeben.](https://www.heise.de/news/Quanten-Computing-von-Microsoft-Azure-Quantum-vorgestellt-5043702.html)
 
