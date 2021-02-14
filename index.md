@@ -19,6 +19,7 @@ Satzes. Stattdessen:  wildes Gemetzel ohne Sinn und Verstand.
 
 Insbesondere, wenn der erweiterte Infinitiv Subjekt ist. 
 
+- Tagesschau: [Die Marke von 50 zu unterschreiten, war über Monate politisches Ziel.](https://www.tagesschau.de/inland/rki-zahlen-inzidenz-101.html)
 - FAZ:   [Königsberger Klopse zu servieren, ist in jedem Fall eine
   vernünftige
   Entscheidung](https://www.faz.net/aktuell/stil/essen-trinken/rezepte/rezept-fuer-koenigsberger-klopse-17142238.html)
@@ -26,6 +27,12 @@ Insbesondere, wenn der erweiterte Infinitiv Subjekt ist.
     Entscheidung" - niemand schreibt "Das, ist ..." ??? 
 - [Herr Brandner, sich über Werte wie Vielfalt und Toleranz lustig zu machen, ist für einen gewählten Volksvertreter arm.](https://twitter.com/s04/status/1354028384884563968)  
 - HEISE: [Um dieses Geschäft dem US-Bannstrahl zu entziehen, hat Huawei die Tochter Honor zuletzt in die Unabhängigkeit verkauft](https://www.heise.de/news/Huawei-dementiert-Verkaufsabsichten-fuer-Smartphone-Oberklasse-5035365.html)  
+  
+Das Komma vor dem nachgestellten  erweiteren Infinitiv verschwandt
+irgendwann. Das ein nützliches Komma; das war hilfreich für den
+Lesefluss. Dieses Komma erschwert das Lesen, macht es dem nicht
+nachdenkenden Schreiber aber irgendwie leichter, wenn man nicht so
+viele Gedanken im Kopf halten kann?? 
   
   
 #### Einschub
