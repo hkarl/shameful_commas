@@ -59,6 +59,10 @@ viele Gedanken im Kopf halten kann??
   
 ### English 
 
+#### Comma between predicate and object 
+
+- [To deploy our proposed framework, we have built, ATLAS+, an AdapTive Failure-Aware Scheduler for Hadoop. ](https://ieeexplore.ieee.org/document/8290927)
+
 #### Unsorted 
 
 - [To,
