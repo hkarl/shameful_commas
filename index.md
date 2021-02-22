@@ -12,8 +12,9 @@ Satzes. Stattdessen:  wildes Gemetzel ohne Sinn und Verstand.
 
 - [Zu vieles Intonieren oder durch falsches platzieren  der
   Nadelstiche, kann man ein Klavier oder Flügel „tot
-  Intonieren“,...](https://www.ratgeber-klavier-hamann.de/was-ist-eine-intonation-bei-einem-klavier-oder-fluegel/) 
-  
+  Intonieren“,...](https://www.ratgeber-klavier-hamann.de/was-ist-eine-intonation-bei-einem-klavier-oder-fluegel/)
+- [Trotz insgesamt steigendem Frauenanteil auf allen Qualifizierungsstufen, ist die Quote mit 27 Prozent unter den neu berufenen W3-Professoren nach wie vor niedrig. ](Zeit online Newsletter, 22.2.2020)  
+
 
 #### Komma nach vorangestelltem erweitertem Infinitiv 
 
