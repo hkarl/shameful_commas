@@ -16,6 +16,9 @@ Satzes. Stattdessen:  wildes Gemetzel ohne Sinn und Verstand.
 - [Trotz insgesamt steigendem Frauenanteil auf allen Qualifizierungsstufen, ist die Quote mit 27 Prozent unter den neu berufenen W3-Professoren nach wie vor niedrig. ](Zeit online Newsletter, 22.2.2020)  
 
 
+- [Im Vergleich zu den Abiturklausuren im Fach Mathematik zu den letzten Jahren, ist diese deutlich schwerer.](https://www.news4teachers.de/2021/05/versuchter-mord-abiturienten-starten-petitionen-wegen-pruefungsaufgaben-in-mathe/) -- Wie kann so jemand denken, Anspruch auf Abitur zu haben?? 
+
+
 #### Komma nach vorangestelltem erweitertem Infinitiv 
 
 Insbesondere, wenn der erweiterte Infinitiv Subjekt ist. 
